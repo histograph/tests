@@ -1,0 +1,42 @@
+- query:
+    q: urn:hgid:ilvb/2375
+  concepts:
+    - pits:
+      - name: Werkendam
+        dataset: ilvb
+    - pits:
+      - name: worckendam
+        dataset: poorterboeken
+
+- query:
+    q: urn:hg:geonames:2744247
+  concepts:
+    - pits:
+        - uri: http://sws.geonames.org/2744247/
+          type: hg:Municipality
+        # - uri: http://www.gemeentegeschiedenis.nl/gemeentenaam/Woerden-1812
+        #   validSince: "1812"
+
+- query:
+    name: haag
+  concepts:
+    - pits:
+        - name: Haag
+          uri: http://vocab.getty.edu/tgn/7261655
+        - dataset: geonames
+          uri: http://sws.geonames.org/2755037/
+          data:
+            admin2Code: "0984"
+    - pits:
+        - name: Schravenhagen
+        - dataset: voc-opvarenden
+
+- query:
+    q: mosbeekweg
+    type: hg:Street
+  concepts:
+    - pits:
+      - id: nwb/hezingen-mosbeekweg
+        dataset: nwb
+        data:
+          gme_naam: Tubbergen
