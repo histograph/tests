@@ -40,3 +40,45 @@
         dataset: nwb
         data:
           gme_naam: Tubbergen
+
+# - query:
+#     q: braassemerstraat
+#
+# - query:
+#     q: nwb/leiden-braassemerstraat
+#
+# - query:
+#     q: http://vocab.getty.edu/tgn/7271174
+#
+# - query:
+#     uri: http://www.geonames.org/2749879/
+#
+# - query:
+#     q: http://sws.geonames.org/2749879/
+#
+# - query:
+#     q: ilvb/2375
+#
+# - query:
+#     q: geonames/2744247
+#
+# - query:
+#     q: geonames/2744247
+#
+# - query:
+#     q: nwb/leiden-braassemerstraat
+#
+# - query:
+#     q: kloeke/E183p
+#
+# - query:
+#     q: ilvb/2375
+#
+# - query:
+#     q: voc-opvarenden/1925
+#
+# - query:
+#     q: geonames/2744826
+#
+# - query:
+#     q: bag/1071
