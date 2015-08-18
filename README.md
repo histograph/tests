@@ -1,6 +1,10 @@
 # histograph-tests
 
-Integration tests for Histograph API + Histograph Data. Expects a running Histograph API with Histograph data from the following two sources:
+Integration tests for Histograph API + Histograph Data. histograph-tests runs a set of API calls, and compares the GeoJSON output of each call to the expected results specified in [`tests.yml`](tests.yml).
+
+## Data
+
+histograph-tests expects a running Histograph API with Histograph data from the following two sources:
 
 - [https://github.com/histograph/data](https://github.com/histograph/data)
 - [https://github.com/erfgoed-en-locatie/data](https://github.com/erfgoed-en-locatie/data)
