@@ -31,3 +31,5 @@ Specify your tests in [`tests.yml`](tests.yml), in the following format:
         data:
           gme_naam: Tubbergen
 ```
+
+Copyright (C) 2015 [Waag Society](http://waag.org).
